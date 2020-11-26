@@ -37,3 +37,4 @@ if(wall.x-car.x<(car.width+wall.width)/2){
 //DISPLAY THE SPRITES
 drawSprites();
 }
+}
